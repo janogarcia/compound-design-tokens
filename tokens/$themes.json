@@ -7,7 +7,6 @@
       "theme-semantics": "enabled"
     },
     "$figmaStyleReferences": {
-      "color.text.action.accent": "S:2c572f8242f234b49ca750ded7137cc9327fef48,",
       "color.text.link.external": "S:b457db477910ee52695cf454fc41ade824ce2666,",
       "color.theme.bg": "S:aafa2242c6a6474ea418c68f3fae34276edaaa79,",
       "color.gray.100": "S:14ed0629388612d191551ff8b20fb8e856fe2557,",
@@ -164,8 +163,6 @@
       "color.pink.1200": "S:c666a093758d4cee7ac1f8c67cc514d9f038fbe0,",
       "color.pink.1300": "S:15f8946b3ecd503fa3240b1f6d6357fa87302b42,",
       "color.pink.1400": "S:458b7dff1d3328d0c7746a9c2f7529ecfe667209,",
-      "color.text.placeholder": "S:a59f3c1d1f4f06240426557a3763e0915f0775ac,",
-      "color.text.disabled": "S:3cd9826991260ceae2bd94ad9e0be5fe39126017,",
       "color.icon.primary": "S:0732a2aa6ddcac074ca0da9cd1e0ae1ad7859394,",
       "color.icon.secondary": "S:ee3e471f806b7de37a62adb24ddc9c6bc0d49022,",
       "color.icon.tertiary": "S:4c1a2aa24bccbe3888878c199df5698e1e89629c,",
@@ -368,7 +365,9 @@
       "color.text.primary.rest": "S:57c6c2e63a6e9acc4203a8ed5c3cad80c1b1802f,",
       "color.text.secondary.rest": "S:c9d64097455165b95dcb061b4be2ad71129ba919,",
       "color.text.action.primary.rest": "S:c28933e70b0db96b2a758ecdf9fe14171d571f11,",
-      "color.text.action.primary.hovered": "S:6e626a0fb2ba0b805d0565829b2b9d53a5550c60,"
+      "color.text.action.primary.hovered": "S:6e626a0fb2ba0b805d0565829b2b9d53a5550c60,",
+      "color.text.action.accent.rest": "S:2c572f8242f234b49ca750ded7137cc9327fef48,",
+      "color.text.placeholder-text": "S:a59f3c1d1f4f06240426557a3763e0915f0775ac,"
     }
   },
   {
@@ -379,7 +378,6 @@
       "theme-semantics": "enabled"
     },
     "$figmaStyleReferences": {
-      "color.text.action.accent": "S:f7bdb01d48ab071cf128c72d1a40ca915915eef2,",
       "color.text.link.external": "S:998ad6020df9ebf2efeecee02f6ab06fac2a8e2f,",
       "color.theme.bg": "S:9f8b1fbc111cb5d894615c347c9bbad91a19dfb0,",
       "color.gray.100": "S:4d870131cf626fdd22a43ac46c37226f3a6e5d9c,",
@@ -536,8 +534,6 @@
       "color.pink.1200": "S:66e293fdbdf5fe9cbde3874b830bf882678e6306,",
       "color.pink.1300": "S:96f5432503c7d0e17dec22897adc5908ff038390,",
       "color.pink.1400": "S:c8ee556e5551e3d4ee70001dd17a480537d9fa6e,",
-      "color.text.placeholder": "S:5f7656f5a1e2f8e8ba4f99edd646bdb0834ad4e4,",
-      "color.text.disabled": "S:3383491a94aa03a2cf65981c880c2843d23d33dd,",
       "color.icon.primary": "S:25b71a54e1fad91ff02aabc9246289b0d6d4da9e,",
       "color.icon.secondary": "S:f5f17963a0c7e44027a7cd214288ebf481207403,",
       "color.icon.tertiary": "S:b7a061ae6d46eb5fd4153542b3404bf592d8b54e,",
@@ -740,7 +736,9 @@
       "color.text.secondary.rest": "S:15c2c531b6776ec2aba2d0478130865fbeb60abf,",
       "color.text.action.primary.rest": "S:575d720f06c7ff1b5edc83146ed39b5264362e90,",
       "color.text.primary.rest": "S:60dc2a35479c740a9a4a50f338afcc264945d2cc,",
-      "color.text.action.primary.hovered": "S:060be031d65f9116e8dffad6d8dbd42e9ed7c447,"
+      "color.text.action.primary.hovered": "S:060be031d65f9116e8dffad6d8dbd42e9ed7c447,",
+      "color.text.action.accent.rest": "S:f7bdb01d48ab071cf128c72d1a40ca915915eef2,",
+      "color.text.placeholder-text": "S:5f7656f5a1e2f8e8ba4f99edd646bdb0834ad4e4,"
     }
   },
   {
@@ -751,7 +749,6 @@
       "theme-semantics": "enabled"
     },
     "$figmaStyleReferences": {
-      "color.text.action.accent": "S:990e74407b9340c1d4c31ceada9d3a6e7c4fdbb9,",
       "color.text.link.external": "S:8aa1e6f966f59d65b1fd96e9432cf21dbd34b0bf,",
       "color.theme.bg": "S:95edef65fe996f3a547ff77a28efea1a93568f50,",
       "color.gray.100": "S:3f3789aa9cbf91040ab8ebbbc6a931d6def2c482,",
@@ -908,8 +905,6 @@
       "color.pink.1200": "S:47855a170d8305c54738f7c8617de76ddcf7a649,",
       "color.pink.1300": "S:7e711b1707c576b566d91e5ac091d5ca6f02727c,",
       "color.pink.1400": "S:3dd35fa2cdfc2959f6b51399eddd276ba88f482b,",
-      "color.text.placeholder": "S:753a8e4fa5f812722fdc9ce9695086b137f59326,",
-      "color.text.disabled": "S:c94e6753ffbeecb21332f035d0ccbd8fbcc7010b,",
       "color.icon.primary": "S:d9cb3871e2f1708604dc24f4063e0475d2c2ee42,",
       "color.icon.secondary": "S:6aeaca404c5752657b780286da2bdf7066981a35,",
       "color.icon.tertiary": "S:ea958331b8cf15daf99ebfb7940fd3167480d902,",
@@ -1112,7 +1107,9 @@
       "color.text.secondary.rest": "S:a04f5e1121e6b6a640b97854e98dece8cc746438,",
       "color.text.action.primary.rest": "S:ad9b9833399b2e37d2c7cf4b0c28d833d40a070c,",
       "color.text.primary.rest": "S:cf098b32640b1f5fc5221125e7168a267569ee31,",
-      "color.text.action.primary.hovered": "S:9167a9a674774553ba9ea5deacff1e1094992cfc,"
+      "color.text.action.primary.hovered": "S:9167a9a674774553ba9ea5deacff1e1094992cfc,",
+      "color.text.action.accent.rest": "S:990e74407b9340c1d4c31ceada9d3a6e7c4fdbb9,",
+      "color.text.placeholder-text": "S:753a8e4fa5f812722fdc9ce9695086b137f59326,"
     }
   },
   {
@@ -1211,7 +1208,6 @@
       "theme-semantics": "enabled"
     },
     "$figmaStyleReferences": {
-      "color.text.action.accent": "S:e86adc9c5602d1293e02d26d97736de5db119044,",
       "color.text.link.external": "S:54a4627a7a9395e41134e741dbcc0f6c5ae5582e,",
       "color.theme.bg": "S:9175552ffad4f5e900a1f37530226bf5c9d81c2b,",
       "color.gray.100": "S:91bd3b45d2bd0be5d9487d4e6b0780fd229f09c5,",
@@ -1368,8 +1364,6 @@
       "color.pink.1200": "S:436d197ea413c5145826344dbdbf81c4e96e57db,",
       "color.pink.1300": "S:74289c55043547110c3cace6eca65cd651f2ee79,",
       "color.pink.1400": "S:2a54478b2902a44d448a68ef85096e64ad713abe,",
-      "color.text.placeholder": "S:c3a921c86572abb8cc82c145f0375536336d3612,",
-      "color.text.disabled": "S:39eaf745fe875fddbcc14f13a50ac42f32cb788a,",
       "color.icon.primary": "S:c75c010a4bd93046df7cd5eaff880b918ed0a86e,",
       "color.icon.secondary": "S:02f811e4e8d9e592445dd27cd8e8e9a94c218a42,",
       "color.icon.tertiary": "S:c6ffc6b4671b741ba681fc695e7761d43421824b,",
@@ -1572,7 +1566,9 @@
       "color.text.secondary.rest": "S:291191fca928458ea980fdb512fa1acda4355987,",
       "color.text.action.primary.rest": "S:af4e3110f901fe440e7015439577830a1005f134,",
       "color.text.primary.rest": "S:1c93a4368cc994155d6520e48dd091791cd5e3d0,",
-      "color.text.action.primary.hovered": "S:00decec26f2674be49374f42a58344e816cc8949,"
+      "color.text.action.primary.hovered": "S:00decec26f2674be49374f42a58344e816cc8949,",
+      "color.text.action.accent.rest": "S:e86adc9c5602d1293e02d26d97736de5db119044,",
+      "color.text.placeholder-text": "S:c3a921c86572abb8cc82c145f0375536336d3612,"
     }
   }
 ]

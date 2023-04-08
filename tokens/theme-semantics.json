@@ -15,15 +15,10 @@
           "description": "Lowest contrast text."
         }
       },
-      "placeholder": {
+      "placeholder-text": {
         "value": "{color.gray.800}",
         "type": "color",
         "description": "Use for placeholder text. Placeholder text should be non-essential. Do not rely exclusively on it."
-      },
-      "disabled": {
-        "value": "{color.gray.800}",
-        "type": "color",
-        "description": "Use for regular text in disabled elements. There's no minimum contrast requirement."
       },
       "action": {
         "primary": {
@@ -38,9 +33,15 @@
           }
         },
         "accent": {
-          "value": "{color.green.900}",
-          "type": "color",
-          "description": "Accent text colour for plain actions."
+          "rest": {
+            "value": "{color.green.900}",
+            "type": "color",
+            "description": "Accent text colour for plain actions."
+          },
+          "hover": {
+            "value": "{color.green.1000}",
+            "type": "color"
+          }
         }
       },
       "link": {
