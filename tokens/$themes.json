@@ -1110,7 +1110,9 @@
       "color.icon.info.primary": "S:e122d1ab4fc323f4f68d98a9f58953b9492a1085,",
       "color.icon.on-solid.primary": "S:a936ddba47f9c97cb7ce80ef067f7372b76387c2,",
       "color.text.secondary.rest": "S:a04f5e1121e6b6a640b97854e98dece8cc746438,",
-      "color.text.action.primary.rest": "S:ad9b9833399b2e37d2c7cf4b0c28d833d40a070c,"
+      "color.text.action.primary.rest": "S:ad9b9833399b2e37d2c7cf4b0c28d833d40a070c,",
+      "color.text.primary.rest": "S:cf098b32640b1f5fc5221125e7168a267569ee31,",
+      "color.text.action.primary.hovered": "S:9167a9a674774553ba9ea5deacff1e1094992cfc,"
     }
   },
   {
