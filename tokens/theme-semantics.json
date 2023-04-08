@@ -9,9 +9,11 @@
         }
       },
       "secondary": {
-        "value": "{color.gray.900}",
-        "type": "color",
-        "description": "Lowest contrast text."
+        "rest": {
+          "value": "{color.gray.900}",
+          "type": "color",
+          "description": "Lowest contrast text."
+        }
       },
       "placeholder": {
         "value": "{color.gray.800}",
