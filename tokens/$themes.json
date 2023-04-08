@@ -362,12 +362,13 @@
       "color.icon.success.primary": "S:7a902ea30bcdd91167e5084cc412164cebdc50de,",
       "color.icon.info.primary": "S:6ce0e63ca95b8e0de3002ef1560823291f3c4824,",
       "color.icon.on-solid.primary": "S:85a7fb5ae0205eae10f1be4e218d76b6ebaeeaa5,",
-      "color.text.primary.rest": "S:57c6c2e63a6e9acc4203a8ed5c3cad80c1b1802f,",
+      "color.text.primary.rest": "S:2ea6e13b2ee98209afdc8a57f1a85bd50a089015,",
       "color.text.secondary.rest": "S:c9d64097455165b95dcb061b4be2ad71129ba919,",
       "color.text.action.primary.rest": "S:c28933e70b0db96b2a758ecdf9fe14171d571f11,",
-      "color.text.action.primary.hovered": "S:6e626a0fb2ba0b805d0565829b2b9d53a5550c60,",
+      "color.text.action.primary.hovered": "S:3e8ed4578cb2f38839e6e1b352fb875430ecf590,",
       "color.text.action.accent.rest": "S:2c572f8242f234b49ca750ded7137cc9327fef48,",
-      "color.text.placeholder-text": "S:a59f3c1d1f4f06240426557a3763e0915f0775ac,"
+      "color.text.placeholder-text": "S:a59f3c1d1f4f06240426557a3763e0915f0775ac,",
+      "color.text.action.accent.hover": "S:c0b6f1ee997d3b3d8e59f1a23d85a93d252210d0,"
     }
   },
   {
@@ -736,9 +737,7 @@
       "color.text.secondary.rest": "S:15c2c531b6776ec2aba2d0478130865fbeb60abf,",
       "color.text.action.primary.rest": "S:575d720f06c7ff1b5edc83146ed39b5264362e90,",
       "color.text.primary.rest": "S:60dc2a35479c740a9a4a50f338afcc264945d2cc,",
-      "color.text.action.primary.hovered": "S:060be031d65f9116e8dffad6d8dbd42e9ed7c447,",
-      "color.text.action.accent.rest": "S:f7bdb01d48ab071cf128c72d1a40ca915915eef2,",
-      "color.text.placeholder-text": "S:5f7656f5a1e2f8e8ba4f99edd646bdb0834ad4e4,"
+      "color.text.action.primary.hovered": "S:060be031d65f9116e8dffad6d8dbd42e9ed7c447,"
     }
   },
   {
@@ -1107,9 +1106,7 @@
       "color.text.secondary.rest": "S:a04f5e1121e6b6a640b97854e98dece8cc746438,",
       "color.text.action.primary.rest": "S:ad9b9833399b2e37d2c7cf4b0c28d833d40a070c,",
       "color.text.primary.rest": "S:cf098b32640b1f5fc5221125e7168a267569ee31,",
-      "color.text.action.primary.hovered": "S:9167a9a674774553ba9ea5deacff1e1094992cfc,",
-      "color.text.action.accent.rest": "S:990e74407b9340c1d4c31ceada9d3a6e7c4fdbb9,",
-      "color.text.placeholder-text": "S:753a8e4fa5f812722fdc9ce9695086b137f59326,"
+      "color.text.action.primary.hovered": "S:9167a9a674774553ba9ea5deacff1e1094992cfc,"
     }
   },
   {
@@ -1563,12 +1560,8 @@
       "color.icon.success.primary": "S:469fa5ffcbb19baa28371e41fcfed45340740640,",
       "color.icon.info.primary": "S:c4e55b08bd60d870b7908baa2695c8575a6c66c1,",
       "color.icon.on-solid.primary": "S:476651a1ddedf5ddafb1d595148aa3c9009eff70,",
-      "color.text.secondary.rest": "S:291191fca928458ea980fdb512fa1acda4355987,",
-      "color.text.action.primary.rest": "S:af4e3110f901fe440e7015439577830a1005f134,",
       "color.text.primary.rest": "S:1c93a4368cc994155d6520e48dd091791cd5e3d0,",
-      "color.text.action.primary.hovered": "S:00decec26f2674be49374f42a58344e816cc8949,",
-      "color.text.action.accent.rest": "S:e86adc9c5602d1293e02d26d97736de5db119044,",
-      "color.text.placeholder-text": "S:c3a921c86572abb8cc82c145f0375536336d3612,"
+      "color.text.action.primary.hovered": "S:00decec26f2674be49374f42a58344e816cc8949,"
     }
   }
 ]
