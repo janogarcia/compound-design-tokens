@@ -2,9 +2,11 @@
   "color": {
     "text": {
       "primary": {
-        "value": "{color.gray.1400}",
-        "type": "color",
-        "description": "Highest contrast text."
+        "rest": {
+          "value": "{color.gray.1400}",
+          "type": "color",
+          "description": "Highest contrast text."
+        }
       },
       "secondary": {
         "value": "{color.gray.900}",
