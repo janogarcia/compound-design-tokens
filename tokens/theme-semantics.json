@@ -27,9 +27,15 @@
       },
       "action": {
         "primary": {
-          "value": "{color.gray.1400}",
-          "type": "color",
-          "description": "Default text colour for plain actions."
+          "rest": {
+            "value": "{color.gray.1400}",
+            "type": "color",
+            "description": "Default text colour for plain actions."
+          },
+          "hovered": {
+            "value": "{color.gray.1200}",
+            "type": "color"
+          }
         },
         "accent": {
           "value": "{color.green.900}",
