@@ -1566,7 +1566,9 @@
       "color.icon.info.primary": "S:c4e55b08bd60d870b7908baa2695c8575a6c66c1,",
       "color.icon.on-solid.primary": "S:476651a1ddedf5ddafb1d595148aa3c9009eff70,",
       "color.text.secondary.rest": "S:291191fca928458ea980fdb512fa1acda4355987,",
-      "color.text.action.primary.rest": "S:af4e3110f901fe440e7015439577830a1005f134,"
+      "color.text.action.primary.rest": "S:af4e3110f901fe440e7015439577830a1005f134,",
+      "color.text.primary.rest": "S:1c93a4368cc994155d6520e48dd091791cd5e3d0,",
+      "color.text.action.primary.hovered": "S:00decec26f2674be49374f42a58344e816cc8949,"
     }
   }
 ]
