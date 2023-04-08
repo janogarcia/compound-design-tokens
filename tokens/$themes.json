@@ -738,7 +738,9 @@
       "color.icon.info.primary": "S:e0d3598c09299d54d1ac25cf5fa191c7d7293a70,",
       "color.icon.on-solid.primary": "S:5b7b48b7f59f77934ae625a2dc86082f6ba2da8b,",
       "color.text.secondary.rest": "S:15c2c531b6776ec2aba2d0478130865fbeb60abf,",
-      "color.text.action.primary.rest": "S:575d720f06c7ff1b5edc83146ed39b5264362e90,"
+      "color.text.action.primary.rest": "S:575d720f06c7ff1b5edc83146ed39b5264362e90,",
+      "color.text.primary.rest": "S:60dc2a35479c740a9a4a50f338afcc264945d2cc,",
+      "color.text.action.primary.hovered": "S:060be031d65f9116e8dffad6d8dbd42e9ed7c447,"
     }
   },
   {
