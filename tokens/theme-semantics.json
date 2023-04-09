@@ -47,7 +47,7 @@
       "link": {
         "external": {
           "rest": {
-            "value": "{color.blue.900}",
+            "value": "{color.pink.900}",
             "type": "color",
             "description": "Text colour for external links."
           },
@@ -73,7 +73,7 @@
       },
       "info": {
         "primary": {
-          "value": "{color.blue.900}",
+          "value": "{color.pink.900}",
           "type": "color",
           "description": "Accent text colour for informational elements."
         }
