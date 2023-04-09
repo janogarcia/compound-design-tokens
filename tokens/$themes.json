@@ -367,7 +367,8 @@
       "color.text.placeholder-text": "S:a59f3c1d1f4f06240426557a3763e0915f0775ac,",
       "color.text.action.accent.hover": "S:c0b6f1ee997d3b3d8e59f1a23d85a93d252210d0,",
       "color.text.link.external.rest": "S:b457db477910ee52695cf454fc41ade824ce2666,",
-      "color.bg.primary": "S:51c5537aa5975d2f713447c4d9bb4b33cd659eb2,"
+      "color.bg.primary": "S:51c5537aa5975d2f713447c4d9bb4b33cd659eb2,",
+      "color.text.link.external.hovered": "S:3aa898bfb60177b5376302a0e12c10178556f465,"
     }
   },
   {
@@ -733,9 +734,7 @@
       "color.text.secondary.rest": "S:15c2c531b6776ec2aba2d0478130865fbeb60abf,",
       "color.text.action.primary.rest": "S:575d720f06c7ff1b5edc83146ed39b5264362e90,",
       "color.text.primary.rest": "S:60dc2a35479c740a9a4a50f338afcc264945d2cc,",
-      "color.text.action.primary.hovered": "S:060be031d65f9116e8dffad6d8dbd42e9ed7c447,",
-      "color.text.link.external.rest": "S:998ad6020df9ebf2efeecee02f6ab06fac2a8e2f,",
-      "color.bg.primary": "S:9bd78b075ce22bb08aa6e8af7666a82278f45400,"
+      "color.text.action.primary.hovered": "S:060be031d65f9116e8dffad6d8dbd42e9ed7c447,"
     }
   },
   {
@@ -1101,9 +1100,7 @@
       "color.text.secondary.rest": "S:a04f5e1121e6b6a640b97854e98dece8cc746438,",
       "color.text.action.primary.rest": "S:ad9b9833399b2e37d2c7cf4b0c28d833d40a070c,",
       "color.text.primary.rest": "S:cf098b32640b1f5fc5221125e7168a267569ee31,",
-      "color.text.action.primary.hovered": "S:9167a9a674774553ba9ea5deacff1e1094992cfc,",
-      "color.text.link.external.rest": "S:8aa1e6f966f59d65b1fd96e9432cf21dbd34b0bf,",
-      "color.bg.primary": "S:85e205dd11b22d6a3670cae0dd6fcdf791988ec8,"
+      "color.text.action.primary.hovered": "S:9167a9a674774553ba9ea5deacff1e1094992cfc,"
     }
   },
   {
@@ -1555,9 +1552,7 @@
       "color.icon.info.primary": "S:c4e55b08bd60d870b7908baa2695c8575a6c66c1,",
       "color.icon.on-solid.primary": "S:476651a1ddedf5ddafb1d595148aa3c9009eff70,",
       "color.text.primary.rest": "S:1c93a4368cc994155d6520e48dd091791cd5e3d0,",
-      "color.text.action.primary.hovered": "S:00decec26f2674be49374f42a58344e816cc8949,",
-      "color.text.link.external.rest": "S:54a4627a7a9395e41134e741dbcc0f6c5ae5582e,",
-      "color.bg.primary": "S:f26bd46e440dd3826a5fb34ce7ff17dd7dc0b35c,"
+      "color.text.action.primary.hovered": "S:00decec26f2674be49374f42a58344e816cc8949,"
     }
   }
 ]
