@@ -46,9 +46,15 @@
       },
       "link": {
         "external": {
-          "value": "{color.blue.900}",
-          "type": "color",
-          "description": "Text colour for external links."
+          "rest": {
+            "value": "{color.blue.900}",
+            "type": "color",
+            "description": "Text colour for external links."
+          },
+          "hovered": {
+            "value": "{color.blue.1000}",
+            "type": "color"
+          }
         }
       },
       "critical": {
@@ -93,15 +99,10 @@
           "description": "Default background for disabled elements. There's no minimum contrast requirement."
         }
       },
-      "subtle-primary": {
+      "primary": {
         "value": "{color.gray.400}",
         "type": "color",
         "description": "Medium contrast surfaces."
-      },
-      "subtle-secondary": {
-        "value": "{color.gray.300}",
-        "type": "color",
-        "description": "Low contrast surfaces."
       },
       "action": {
         "primary": {
