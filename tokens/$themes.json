@@ -4,8 +4,7 @@
     "name": "Light HC",
     "selectedTokenSets": {
       "theme-light-hc": "enabled",
-      "theme-semantics": "enabled",
-      "theme-light-semantics": "disabled"
+      "theme-semantics": "enabled"
     },
     "$figmaStyleReferences": {
       "color.theme.bg": "S:9f8b1fbc111cb5d894615c347c9bbad91a19dfb0,",
@@ -371,8 +370,7 @@
     "name": "Dark HC",
     "selectedTokenSets": {
       "theme-dark-hc": "enabled",
-      "theme-semantics": "enabled",
-      "theme-light-semantics": "disabled"
+      "theme-semantics": "enabled"
     },
     "$figmaStyleReferences": {
       "color.theme.bg": "S:95edef65fe996f3a547ff77a28efea1a93568f50,",
@@ -737,8 +735,7 @@
     "id": "e12210b9270d7047e0bed40f06eaa66d5bd7a9c7",
     "name": "Global",
     "selectedTokenSets": {
-      "cross-platform": "enabled",
-      "theme-light-semantics": "disabled"
+      "cross-platform": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -746,8 +743,7 @@
     "id": "96f4f9bd2bf32c4657bfe283f418fc093117942f",
     "name": "Android",
     "selectedTokenSets": {
-      "platform-android": "enabled",
-      "theme-light-semantics": "disabled"
+      "platform-android": "enabled"
     },
     "$figmaStyleReferences": {
       "font.body.xs.regular": "S:a5156f5b816a78cf77e28a9d113c391403f446b1,",
@@ -772,8 +768,7 @@
     "id": "0022f9989257cb4474cf2429dc471f3ea70d0f9d",
     "name": "iOS",
     "selectedTokenSets": {
-      "platform-ios": "enabled",
-      "theme-light-semantics": "disabled"
+      "platform-ios": "enabled"
     },
     "$figmaStyleReferences": {
       "font.body.xs.regular": "S:4e372e1fd6b30968453c3756bdca40f92635a0c4,",
@@ -798,8 +793,7 @@
     "id": "22ad1f7c65308da86722dc9335e31be4d9fa53d7",
     "name": "Web",
     "selectedTokenSets": {
-      "platform-web": "enabled",
-      "theme-light-semantics": "disabled"
+      "platform-web": "enabled"
     },
     "$figmaStyleReferences": {
       "font.body.xs.regular": "S:e47a1246ea441dbe14239646a24d3604eaa4cc61,",
@@ -830,8 +824,7 @@
     "name": "Dark",
     "selectedTokenSets": {
       "theme-dark": "enabled",
-      "theme-semantics": "enabled",
-      "theme-light-semantics": "disabled"
+      "theme-semantics": "enabled"
     },
     "$figmaStyleReferences": {
       "color.theme.bg": "S:9175552ffad4f5e900a1f37530226bf5c9d81c2b,",
