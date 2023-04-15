@@ -1,0 +1,13 @@
+{
+  "color": {
+    "bg": {
+      "canvas": {
+        "default-elevation-1": {
+          "value": "{color.theme.bg}",
+          "type": "color",
+          "description": "Default global background for the user interface.\nElevation: Level 1."
+        }
+      }
+    }
+  }
+}
